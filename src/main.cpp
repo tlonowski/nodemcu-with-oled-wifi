@@ -5,8 +5,8 @@
 #include <ESP8266HTTPClient.h>
 #include <ESP8266Ping.h>
 
-const char* ssid = "vsrnet"; //replace this with your WiFi network name
-const char* password = "mojapysia"; //replace this with your WiFi network password
+const char* ssid = ""; //replace this with your WiFi network name
+const char* password = ""; //replace this with your WiFi network password
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
